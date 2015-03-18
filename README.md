@@ -1,5 +1,5 @@
-# base16-ocean-dark-syntax theme
+# Base16 Ocean Dark for Atom
 
-A short description of your theme.
+A port of [Chris Kempson's Base16 Ocean Dark theme](http://chriskempson.github.io/base16/#ocean) for the [Atom text editor](https://atom.io)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of the theme](https://raw.github.com/rpowelll/base16-ocean-dark-syntax/master/media/screenshot.png)
