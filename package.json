@@ -1,7 +1,7 @@
 {
   "name": "base16-ocean-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Base16 Ocean Dark for Atom",
   "repository": "https://github.com/rpowelll/base16-ocean-dark-syntax",
   "license": "MIT",
